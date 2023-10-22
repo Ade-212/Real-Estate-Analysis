@@ -19,7 +19,7 @@ In this project, a comprehensive Exploratory Data Analysis (EDA) of the US housi
 # Technologies & Libraries Used:
 * Python: The primary language used for the Analysis.
 * Jupyter Notebook
-* Data Visualization Libraries: ;ibraries such as Matplotlib and Seaborn
+* Data Visualization Libraries: ;libraries such as Matplotlib and plotly.graph_objects
 
 # Contributing:
 If you have any suggestions or improvements, feel free to fork the repository and create a pull request. All contributions are welcome. Ade.212@outlook.com
