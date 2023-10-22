@@ -6,6 +6,9 @@ In this project, a comprehensive Exploratory Data Analysis (EDA) of the US housi
 * README.md - This file provides an overview and description of the project.
 * ipynb notebooks - This Jupyter notebook contains the main analysis, data preprocessing, and visualization steps.
 
+# Installation:
+* Clone the repositoryy to your local machine using 'git clone
+
 # How to Use:
 * Clone the repository to your local machine.
 * Ensure you have Jupyter Notebook installed.
